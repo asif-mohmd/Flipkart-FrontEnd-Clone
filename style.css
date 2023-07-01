@@ -1,6 +1,12 @@
 body{
-    margin: 0;
+  
     font-family: inter_regular,fallback-inter_regular,Arial,sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    
 }
 
 /* header section  starts */
@@ -9,8 +15,16 @@ body{
     background-color: #ffffff;
     width: 100%;
     height: 67px;
+
+    position: fixed;
+    top: 0;
+    
+    line-height: 40px;
+    z-index: 1;
   
 }
+
+
 .header-part-1{
     width:13%;
     float: left;
@@ -88,6 +102,7 @@ body{
     width: 100%;
     height: 150px;
     position: relative; /* Add this */
+    margin-top: 5%;
   }
   
   .section-1 {
@@ -108,3 +123,14 @@ body{
   /* Item section Ends */
 
   
+  /* hover effect start  */
+
+  .hov-effect:hover {
+    transform:scale(1.1);
+    cursor: pointer;
+    
+  }
+
+  
+
+  /* hover effect ends */

@@ -2,14 +2,14 @@
 /* Delivery restaurants starts */
 
 .article-wrapper {
-    width: 250px;
+    width: 230px;
     -webkit-transition: 0.15s all ease-in-out;
     transition: 0.15s all ease-in-out;
     border-radius: 10px;
     padding: 5px;
     border: 4px solid transparent;
     cursor: pointer;
-    background-color: #F0F4FE;
+    background-color: #ffffff;
   }
   
 
@@ -20,7 +20,7 @@
   
   .container-project {
     width: 100%;
-    height: 170px;
+    height: 180px;
     background: gray;
   }
 
@@ -29,7 +29,7 @@
   /* Restaurants list starts */
 
   .product-list {
-    margin-left: 200px;
+    margin-left: 105px;
     display: flex;
    
   }
@@ -73,16 +73,19 @@
     font-size: 1.9rem; 
     font-weight: 400; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-background-color: #F0F4FE;
+    background-color: #F0F4FE;
    
 }
 
 /* main sub headings endss */
 
 /* product section main  starts*/
-.product-section-main{
+.product-section-1-main{
     width: 98%;
-     margin: 1%;
+    
+ 
+
+
 
 }
 /* product section main ends */

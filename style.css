@@ -134,3 +134,17 @@ body{
   
 
   /* hover effect ends */
+
+.item-section-1-p{
+  font-size: 14px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif 
+
+}
+
+.item-section-1-padding{
+  padding-left: 50px;
+}
+
+.hov-effect img{
+  width: 60px; height: auto;
+}

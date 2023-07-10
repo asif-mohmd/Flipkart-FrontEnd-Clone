@@ -148,3 +148,8 @@ body{
 .hov-effect img{
   width: 60px; height: auto;
 }
+
+.flex-pr style{
+  padding-left: 35%;
+
+}

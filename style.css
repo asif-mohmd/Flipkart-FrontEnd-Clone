@@ -1,5 +1,4 @@
 
-
 body {
 
   font-family: inter_regular, fallback-inter_regular, Arial, sans-serif;
@@ -17,15 +16,12 @@ body {
   background-color: #ffffff;
   width: 100%;
   height: 67px;
-
   position: fixed;
   top: 0;
-
   line-height: 40px;
   z-index: 1;
 
 }
-
 
 .header-part-1 {
   width: 13%;
@@ -95,9 +91,8 @@ body {
 
 /* header section endss */
 
+
 /* Items section started */
-
-
 
 .item-section {
   background-color: #F0F3F4;

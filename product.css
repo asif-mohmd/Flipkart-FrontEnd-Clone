@@ -29,7 +29,6 @@
   .product-list {
     margin-left: 105px;
     display: flex;
-   
   }
   
   .article-wrapper {
@@ -56,10 +55,9 @@
 
   .product-types{
       color: #9C9C9C; 
-     
       font-family: Okra, Helvetica, sans-serif; 
       font-weight: lighter;
-    font-size: 0.8rem;
+      font-size: 0.8rem;
   }
 
   
@@ -82,10 +80,5 @@
 /* product section main  starts*/
 .product-section-1-main{
     width: 98%;
-    
- 
-
-
-
 }
 /* product section main ends */

@@ -66,7 +66,7 @@
 
   /* Main sub heading starts */
 
-.main-sub-headings{
+  .main-sub-headings{
     color: rgb(28, 28, 28); 
     font-size: 1.9rem; 
     font-weight: 400; 
@@ -77,7 +77,9 @@
 
 /* main sub headings endss */
 
+
 /* product section main  starts*/
+
 .product-section-1-main{
     width: 98%;
 }

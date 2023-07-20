@@ -1,13 +1,11 @@
 
 body {
-
   font-family: inter_regular, fallback-inter_regular, Arial, sans-serif;
   width: 100%;
   height: 100%;
   margin: 0px;
   padding: 0px;
   overflow-x: hidden;
-
 }
 
 /* header section  starts */
@@ -20,14 +18,12 @@ body {
   top: 0;
   line-height: 40px;
   z-index: 1;
-
 }
 
 .header-part-1 {
   width: 13%;
   float: left;
   padding-top: 15px;
-
 }
 
 .search-bar {
@@ -37,7 +33,6 @@ body {
 
 .header-part-3 {
   width: 35%;
-
   align-items: center;
   justify-content: center;
   display: flex;
@@ -125,7 +120,6 @@ body {
 .hov-effect:hover {
   transform: scale(1.1);
   cursor: pointer;
-
 }
 
 /* hover effect ends */
